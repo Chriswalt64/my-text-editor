@@ -1,8 +1,10 @@
 
 
 <h4 align="center">A text editor built with <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
-
-<img align="center" src="logo64x64.png" >
+<!--This should be an unseen comment. aligning images for github markdown has to be done with inline css on html tags, it cant be done with just markdown-->
+<p align="center"> 
+    <img src="logo64x64.png" />
+</p> 
 
 ## Overview
 
