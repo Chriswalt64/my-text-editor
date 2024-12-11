@@ -2,7 +2,7 @@
 
 <h4 align="center">A text editor built with <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
-<img align = "center" src = "logo64x64.png" >
+<img align="center" src="logo64x64.png" >
 
 ## Overview
 
