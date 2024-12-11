@@ -16,5 +16,13 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^33.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chriswalt64/my-text-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chriswalt64/my-text-editor/issues"
+  },
+  "homepage": "https://github.com/Chriswalt64/my-text-editor#readme"
 }
