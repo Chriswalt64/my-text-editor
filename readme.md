@@ -6,6 +6,22 @@
     <img src="logo64x64.png" />
 </p> 
 
+## Releast Notes
+<details>
+<summary>Release 0.0.1 (The Washington)</summary>
+<br>
+- Changed the icon from the default Electron icon to the temp icon (its a 256x256 png of my twitch logo)
+- Got rid of several UI elements
+	- Navbar options
+	- Hamburger menu
+- Removed the header above the textarea and moved the save and load buttons to where the navbar was.
+- Added options to Window File menu for saving and loading (Not fully implemented)
+
+with these updates, we are officially calling this release 0.0.1 - The Washington.
+
+Oh yeah, Im using U.S. President names for releases because why not?
+</details>
+
 ## Overview
 
 This is a project I started to learn not just Electron, but also just html/css/js altogether. 
