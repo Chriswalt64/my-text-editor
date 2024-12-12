@@ -17,13 +17,14 @@
 	<li>Navbar options</li>
 	<li>Hamburger menu</li>
 	</ul>
-- Removed the header above the textarea and moved the save and load buttons to where the navbar was.
-- Added options to Window File menu for saving and loading (Not fully implemented)
-
+<li>Removed the header above the textarea and moved the save and load buttons to where the navbar was.</li>
+<li>Added options to Window File menu for saving and loading (Not fully implemented)</li>
+</ul>
+	
 with these updates, we are officially calling this release 0.0.1 - The Washington.
 
 Oh yeah, Im using U.S. President names for releases because why not?
-</ul>
+
 </details>
 
 ## Overview
