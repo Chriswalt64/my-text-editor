@@ -7,7 +7,7 @@ function saveFile() {
   link.download = 'note.txt';
   link.click();
 }
-
+// adding comment to start new branch
 function openFile() {
   const input = document.createElement('input');
   input.type = 'file';
