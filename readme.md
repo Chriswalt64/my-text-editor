@@ -6,7 +6,7 @@
     <img src="Logo256x256.png" />
 </p> 
 
-## Releast Notes
+## Release Notes
 <details>
 <summary>Release 0.0.1 (The Washington)</summary>
 <br>
