@@ -8,6 +8,22 @@
 
 ## Release Notes
 <details>
+<summary>Release 0.0.2 (The Adams)</summary>
+<br>
+	<ul>
+<li>Completely removed the menu bar. After looking at other electron examples, adding save/load functionality in a context menu doesnt seem like a thing most electron projects do. Plus spending so much time trying to figuring it out made things kinda stagnant, so time to look at other things.</li>
+<li> Added rudimentary text size options</li>
+		<ul>
+	<li>big</li>
+	<li>medium</li>
+	<li>little</li>
+	</ul>
+	</ul>
+I wanted to throw something together and make myself show some progress. Next things I want to focus on are maybe text highlighting. But honestly I think I overestimated the simplicity of a text editor big time. But thats how you learn.
+
+ See you, Space Cowboy...
+</details>
+<details>
 <summary>Release 0.0.1 (The Washington)</summary>
 <br>
 	<ul>
